@@ -1,0 +1,62 @@
+{
+    "title": "Support Our Work",
+    "subtitle": "Help us improve water quality analysis for sustainable agriculture",
+    "whySupport": {
+        "title": "Why Support?",
+        "p1": "WaterQ AI is developed as an open educational and research tool to help farmers, researchers, and water management professionals make informed decisions about irrigation water quality.",
+        "p2": "Your support helps the developer:",
+        "items": [
+            "Maintain and improve the application",
+            "Add new water quality indicators and assessment tools",
+            "Conduct research to enhance water quality analysis methods",
+            "Provide educational resources for sustainable water management",
+            "Make the tool available in more languages for global accessibility"
+        ]
+    },
+    "donationOptions": {
+        "title": "Donation Options",
+        "card": {
+            "title": "Donate via Credit Card",
+            "desc": "Support our work with a secure credit card payment",
+            "button": "Donate Now"
+        },
+        "paypal": {
+            "title": "Donate via PayPal",
+            "desc": "Support our work using PayPal",
+            "button": "Donate Now"
+        }
+    },
+    "orgSupport": {
+        "title": "For Organizations",
+        "p1": "If you represent an organization, scientific or educational establishment interested in supporting sustainable water management technologies, the developer offers partnership opportunities:",
+        "items": [
+            "Sponsored research in water quality assessment",
+            "Customized versions of WaterQ AI for specific needs",
+            "Training workshops for your staff or beneficiaries",
+            "Joint development of enhanced features or methodologies"
+        ],
+        "button": "Contact for Partnerships"
+    },
+    "otherWays": {
+        "title": "Other Ways to Contribute",
+        "p": "Financial support is not the only way to contribute. You can also help by:",
+        "items": [
+            {
+                "label": "Share Your Expertise",
+                "desc": "If you're a water quality expert, agronomist, or software developer, consider contributing to the methodology or code."
+            },
+            {
+                "label": "Spread the Word",
+                "desc": "Share WaterQ AI with colleagues, extension services, or farming communities who might benefit from it."
+            },
+            {
+                "label": "Provide Feedback",
+                "desc": "Help me improve by reporting bugs, suggesting features, or sharing how you use the tool in your work."
+            },
+            {
+                "label": "Translate Content",
+                "desc": "Volunteer to translate the application interface or documentation into other languages are welcome."
+            }
+        ]
+    }
+}

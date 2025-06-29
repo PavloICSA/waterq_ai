@@ -1,0 +1,159 @@
+{
+  "resultsDisplay": {
+    "title": "Analysis Results",
+    "downloadPdf": "Download PDF",
+    "errorLabel": "Error",
+    "qualityClass": {
+      "excellent": "Excellent",
+      "good": "Good",
+      "fair": "Fair",
+      "poor": "Poor",
+      "unsuitable": "Unsuitable",
+      "error": "Error",
+      "medium": "Acceptable",
+      "acceptable": "Acceptable",
+      "hazardous": "Hazardous"
+    },
+    "groups": {
+      "basic": "Basic Parameters",
+      "sodium": "Sodium Hazard",
+      "other": "Other Indicators"
+    },
+    "parameters": {
+      "tds": {
+        "name": "Total Dissolved Solids (TDS)",
+        "value": "Total: {{value}} mg/L",
+        "details": "Toxic: {{toxic}} mg/L, Non-toxic: {{nonToxic}} mg/L",
+        "goodDescription": "Optimal TDS level for irrigation.",
+        "fairDescription": "Moderate TDS level, monitor for potential salinity issues.",
+        "poorDescription": "High TDS level may lead to soil salinity problems.",
+        "unsuitableDescription": "Very high TDS level, unsuitable for most irrigation purposes."
+      },
+      "ph": {
+        "name": "pH Value",
+        "value": "pH: {{value}}",
+        "goodDescription": "pH is in the ideal range for most crops.",
+        "fairDescription": "pH is acceptable but may affect some sensitive crops.",
+        "poorDescription": "pH may affect nutrient availability for many crops.",
+        "unsuitableDescription": "Extreme pH can severely impact nutrient availability and plant growth."
+      },
+      "ecl": {
+        "name": "Toxic Ions (eCl)",
+        "value": "eCl: {{value}} meq/L",
+        "goodDescription": "Low level of toxic ions.",
+        "fairDescription": "Moderate level of toxic ions, monitor crop response.",
+        "poorDescription": "High level of toxic ions can be detrimental to sensitive crops.",
+        "unsuitableDescription": "Very high levels of toxic ions (chlorides, sulfates) can be severely harmful to crops."
+      },
+      "carbonates": {
+        "name": "Carbonates & Bicarbonates",
+        "value": "CO₃²⁻: {{carbonateValue}}, HCO₃⁻: {{bicarbonateValue}}",
+        "goodDescription": "Carbonate level is balanced.",
+        "fairDescription": "Moderate carbonate level, acceptable for most applications.",
+        "poorDescription": "Elevated carbonate level, may cause some irrigation issues.",
+        "unsuitableDescription": "High level of carbonates and bicarbonates, unfavorable for irrigation."
+      },
+      "ionBalance": {
+        "errorMessageShort": "Please check your analysis and re-enter values.",
+        "errorDescription": "Ion Balance Error: The sum of cations (Na⁺, Ca²⁺, Mg²⁺, K⁺) does not equal the sum of anions (SO₄²⁻, Cl⁻, CO₃²⁻, HCO₃⁻). This indicates an imbalance in measured ions, which may affect the accuracy of other calculations.",
+        "goodDescription": "Ion balance is within acceptable limits, indicating accurate input data."
+      },
+      "ssp": {
+        "name": "Soluble Sodium Percentage (SSP)",
+        "value": "SSP: {{value}}%",
+        "goodDescription": "SSP is within safe limits for soil structure.",
+        "fairDescription": "Moderate SSP level, monitor soil structure over time.",
+        "poorDescription": "High SSP can degrade soil structure.",
+        "unsuitableDescription": "Very high SSP poses a significant risk to soil structure."
+      },
+      "sar": {
+        "name": "Sodium Adsorption Ratio (SAR)",
+        "value": "SAR: {{value}}",
+        "goodDescription": "Low SAR, indicating minimal sodium hazard.",
+        "fairDescription": "Moderate SAR level, acceptable for most soils.",
+        "poorDescription": "High SAR may lead to secondary salinization and sodification of soil.",
+        "unsuitableDescription": "Very high SAR poses a serious risk of sodification and structural damage to soil."
+      },
+      "rsc": {
+        "name": "Residual Sodium Carbonate (RSC)",
+        "value": "RSC: {{value}} meq/L",
+        "goodDescription": "Negative or low RSC, indicating low alkalization hazard.",
+        "fairDescription": "Moderate RSC level, monitor for alkalization issues.",
+        "poorDescription": "High RSC indicates an alkalization hazard.",
+        "unsuitableDescription": "Very high RSC indicates a severe alkalization hazard and may cause calcium precipitation."
+      },
+      "kellyRatio": {
+        "name": "Kelly's Ratio (KR)",
+        "value": "Kelly's Ratio: {{value}}",
+        "goodDescription": "Kelly's Ratio is within safe limits.",
+        "fairDescription": "Moderate Kelly's Ratio, acceptable for most conditions.",
+        "poorDescription": "High Kelly's Ratio indicates a sodium hazard.",
+        "unsuitableDescription": "Very high Kelly's Ratio indicates a severe sodium hazard."
+      },
+      "alkalinationHazards": {
+        "name": "Alkalization Hazards",
+        "value": "Alkalization Hazard: {{value}}",
+        "goodDescription": "Low alkalization hazard.",
+        "fairDescription": "Moderate alkalization hazard, monitor soil pH.",
+        "poorDescription": "High alkalization hazard may lead to increased soil pH.",
+        "unsuitableDescription": "Severe alkalization hazard poses a significant risk to soil chemistry."
+      },
+      "steblerK": {
+        "name": "Stebler's Ratio (K)",
+        "value": "Stebler's Ratio (K): {{value}}",
+        "goodDescription": "Stebler's Ratio is in the optimal range.",
+        "fairDescription": "Moderate Stebler's Ratio values, acceptable quality.",
+        "poorDescription": "Stebler's Ratio indicates potential water quality problems.",
+        "unsuitableDescription": "Stebler's Ratio value indicates water unsuitability for irrigation."
+      },
+      "cie": {
+        "name": "Cation Exchange Index (CIE)",
+        "value": "CIE: {{value}}",
+        "goodDescription": "Normal CIE.",
+        "fairDescription": "Moderate CIE, acceptable for most crops.",
+        "poorDescription": "Abnormal CIE can affect plant growth, development, and soil.",
+        "unsuitableDescription": "CIE indicates water unsuitability for irrigation."
+      },
+      "magnesiumRatio": {
+        "name": "Magnesium Ratio",
+        "value": "Magnesium Ratio: {{value}}",
+        "goodDescription": "Magnesium ratio is balanced.",
+        "fairDescription": "Moderate magnesium ratio, acceptable for most crops.",
+        "poorDescription": "High magnesium ratio can negatively impact soil structure.",
+        "unsuitableDescription": "Very high magnesium ratio poses a significant risk to soil structure and plant nutrition."
+      },
+      "permeabilityIndex": {
+        "name": "Permeability Index",
+        "value": "Permeability Index: {{value}}",
+        "goodDescription": "Good soil permeability is expected.",
+        "fairDescription": "Moderate permeability, acceptable for most conditions.",
+        "poorDescription": "Low permeability indicates water infiltration problems.",
+        "unsuitableDescription": "Very poor permeability expected, severe infiltration issues likely."
+      },
+      "corrosionRatio": {
+        "name": "Corrosion Ratio",
+        "value": "Corrosion Ratio: {{value}}",
+        "goodDescription": "Low corrosion potential for irrigation systems.",
+        "fairDescription": "Moderate corrosion potential, monitor equipment condition.",
+        "poorDescription": "High corrosion potential for irrigation systems.",
+        "unsuitableDescription": "Very high corrosion potential poses a serious risk to irrigation infrastructure."
+      },
+      "agc": {
+        "name": "Aydarov-Golovatov Coefficient (AGC)",
+        "value": "Aydarov-Golovatov Coefficient (AGC): {{value}}",
+        "goodDescription": "Aydarov-Golovatov Coefficient is within acceptable limits.",
+        "fairDescription": "Moderate Aydarov-Golovatov Coefficient values, acceptable for irrigation.",
+        "poorDescription": "Aydarov-Golovatov Coefficient indicates potential suitability problems for irrigation.",
+        "unsuitableDescription": "Aydarov-Golovatov Coefficient values indicate water unsuitability for irrigation purposes."
+      },
+      "thermodynamic": {
+        "name": "Thermodynamic Indicators",
+        "value": "Solubility Product: {{solubilityProduct}}, Ion Activity: {{ionActivity}}",
+        "goodDescription": "Favorable water for irrigation.",
+        "fairDescription": "Acceptable water for irrigation of most crops.",
+        "poorDescription": "Unfavorable water for irrigation.",
+        "unsuitableDescription": "Very unfavorable water for irrigation."
+      }
+    }
+  }
+}

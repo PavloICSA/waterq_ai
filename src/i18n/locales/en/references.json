@@ -1,0 +1,155 @@
+{
+    "references": {
+        "title": "References",
+        "publications": [
+            {
+                "title": "A Critical Review of Irrigation Water Quality Index and Water Quality Management Practices in Micro-Irrigation for Efficient Policy Making",
+                "authors": "Anyango, G.W., Bhowmick, G.D., and Bhattacharya, N.S.",
+                "year": "2024",
+                "source": "Desalination and Water Treatment, Article 100304",
+                "url": "https://www.sciencedirect.com/science/article/pii/S1944398624003370"
+            },
+            {
+                "title": "Water Quality for Agriculture",
+                "authors": "Ayers, R.S. and Westcot, D.W.",
+                "year": "1985",
+                "source": "FAO Irrigation and Drainage Paper 29, Food and Agriculture Organization of the United Nations, Rome",
+                "url": "https://www.fao.org/4/t0234e/t0234e00.htm"
+            },
+            {
+                "title": "DSTU 2730:2015. Yakist pryrodnoi vody dlia zroshennia. Agronomichni kryterii [Quality of Natural Water for Irrigation. Agronomic Criteria]",
+                "authors": "Baliuk, S., Vorotyntseva, L., Ladnykh, V., Nedotsiuk, O., Nosonenko, O., and Romashchenko, M.",
+                "year": "2016",
+                "source": "Kyiv, DP UkrNDNC, 13 pp.",
+                "url": "https://zakon.isu.net.ua/sites/default/files/normdocs/1-10395-zahyst_dovkillya._yakist_pryrodnoyi_vody_dlya_zroshen.pdf"
+            },
+            {
+                "title": "Otsinka yakosti vody dlia polyviv silskohospodarskykh kultur [Evaluation of Water Quality for Crops Irrigation]",
+                "authors": "Dotsenko, V.I., Onoprienko, D.M., Zaporozhchenko, V.Yu., and Tkachuk, T.I.",
+                "year": "2022",
+                "source": "Dnipro, Accent PP, DDAEU, 149 pp.",
+                "url": "https://dspace.dsau.dp.ua/bitstream/123456789/7933/1/%D0%94%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%9F%D0%BE%D1%81%D1%96%D0%B1%D0%BD%D0%B8%D0%BA%20%D1%8F%D0%BA%D1%96%D1%81%D1%82%D1%8C%20%28%D0%B2%D1%81%D0%B5%29.pdf"
+            },
+            {
+                "title": "Study and Interpretation of the Chemical Characteristics of Natural Water",
+                "authors": "Hem, J.D.",
+                "year": "1985",
+                "source": "U.S. Geological Survey Water Supply Paper 2254, pp. 254–264",
+                "url": "https://pubs.usgs.gov/publication/wsp2254"
+            },
+            {
+                "title": "Evaluation for Irrigation Water Purposes of Groundwater Quality in the Vicinity of Sivas City Centre (Turkey) by Using GIS and an Irrigation Water Quality Index",
+                "authors": "Karakus, C.B. and Yildiz, S.",
+                "year": "2020",
+                "source": "Irrigation and Drainage, 69(1), pp. 121–137",
+                "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ird.2386"
+            },
+            {
+                "title": "Alkali Soils. Their Formation, Properties and Reclamation",
+                "authors": "Kelley, W.P.",
+                "year": "1951",
+                "source": "176 pp.",
+                "url": "https://acsess.onlinelibrary.wiley.com/doi/10.2136/sssaj1952.03615995001600040015x"
+            },
+            {
+                "title": "Naukovo-metodychni pidkhody shchodo otsinky yakosti pryrodnoi vody dlia zroshennia (na prykladi Kakhovskoi zroshuvalnoi systemy) [Scientific and Methodological Approaches to the Quality Assessment of Natural Water for Irrigation (on the Example of the Kakhov Irrigation System)]",
+                "authors": "Morozov, O.V., Morozov, V.V., and Isachenko, S.O.",
+                "year": "2019",
+                "source": "Water Bioresources and Aquaculture, 1, pp. 90–101",
+                "url": "http://wra-journal.ksauniv.ks.ua/archives/2019/1/10.pdf"
+            },
+            {
+                "title": "Diagnosis and Improvement of Saline and Alkali Soils",
+                "authors": "Richards, L.A. (Ed.)",
+                "year": "1954",
+                "source": "USDA Agriculture Handbook No. 60, US Government Printing Office, 162 pp.",
+                "url": "https://www.ars.usda.gov/ARSUserFiles/20360500/hb60_pdf/hb60complete.pdf"
+            },
+            {
+                "title": "A New Index for Determining Amount of Calcium Carbonate Scale Formed by a Water",
+                "authors": "Ryznar, J.W.",
+                "year": "1944",
+                "source": "Journal of the American Water Works Association, 36(4), pp. 472–483",
+                "url": "https://awwa.onlinelibrary.wiley.com/doi/10.1002/j.1551-8833.1944.tb20016.x"
+            }
+        ],
+        "websites": [
+            {
+                "name": "Food and Agriculture Organization (FAO) - Water Quality for Agriculture",
+                "url": "http://www.fao.org/land-water/water/water-management/water-quality/en/"
+            },
+            {
+                "name": "USDA Agricultural Research Service - Water Quality Information Center",
+                "url": "https://www.nal.usda.gov/waic"
+            },
+            {
+                "name": "World Health Organization - Water Quality Guidelines",
+                "url": "https://www.who.int/water_sanitation_health/water-quality/guidelines/en/"
+            },
+            {
+                "name": "USGS Water Science School",
+                "url": "https://www.usgs.gov/special-topics/water-science-school"
+            },
+            {
+                "name": "EPA - Water Quality Standards",
+                "url": "https://www.epa.gov/standards-water-body-health"
+            }
+        ],
+        "methodologies": {
+            "title": "Key Methodologies",
+            "items": [
+                {
+                    "title": "Toxic ions in chloride equivalents (eCl)",
+                    "formula": "eCl = Cl⁻ + 0.2SO₄²⁻ + 0.4HCO₃⁻ + 5CO₃²⁻ (all ions in meq/L)",
+                    "significance": "High eCl indicates risk of water toxicity to plants. Used in Ukrainian standards.",
+                    "interpretation": "For sandy soils eCl <15 is good; 15–40 moderate. For loam: <10 good; 10–30 moderate. For clay: <5 good; 5–25 moderate."
+                },
+                {
+                    "title": "Soluble Sodium Percentage (SSP)",
+                    "formula": "SSP = (Na⁺ / (Na⁺ + K⁺ + Ca²⁺ + Mg²⁺)) × 100%",
+                    "significance": "SSP reflects sodium dominance among cations. High SSP affects soil structure (sodification hazard) and infiltration.",
+                    "interpretation": "SSP > 60% is hazardous. Lower values are safer."
+                },
+                {
+                    "title": "Stebler's alkaline coefficient (K)",
+                    "formula": [
+                        "K = 2040 / Cl⁻",
+                        "K = 6620 / (Na⁺ + 2.60Cl⁻)",
+                        "K = 662 / (Na⁺ − 0.32Cl⁻ − 0.43SO₄²⁻)"
+                    ],
+                    "significance": "K reflects alkalinity risk from Na and carbonate relative to Ca/Mg.",
+                    "interpretation": [
+                        "K > 18: Good quality",
+                        "K ≈ 6–8: Satisfactory",
+                        "K ≈ 1.2–5.9: Unsatisfactory",
+                        "K < 1.2: Poor quality"
+                    ]
+                },
+                {
+                    "title": "Sodium Adsorption Ratio (SAR)",
+                    "formula": "SAR = Na⁺ / √((Ca²⁺ + Mg²⁺)/2)",
+                    "significance": "SAR assesses sodicity hazard. High SAR leads to clay dispersion and poor permeability.",
+                    "interpretation": "SAR < 10: low risk; 10–18: moderate; >18: high risk."
+                },
+                {
+                    "title": "Coefficient of Ion Exchange (CIE)",
+                    "formula": "CIE = (Ca²⁺ + Mg²⁺) / Na⁺",
+                    "significance": "CIE reflects the balance of flocculating (Ca/Mg) vs dispersing (Na) ions.",
+                    "interpretation": "CIE > 1: acceptable; CIE < 1: sodic hazard likely."
+                },
+                {
+                    "title": "Residual Sodium Carbonate (RSC)",
+                    "formula": "RSC = HCO₃⁻ + CO₃²⁻ − Ca²⁺ − Mg²⁺",
+                    "significance": "High RSC indicates carbonate may reduce Ca/Mg, increasing Na dominance.",
+                    "interpretation": "RSC ≤ 1.25: safe; 1.25–2.5: marginal; >2.5: unsuitable."
+                },
+                {
+                    "title": "Kelly's Ratio (KR)",
+                    "formula": "KR = Na⁺ / (Ca²⁺ + Mg²⁺)",
+                    "significance": "KR > 1 suggests Na exceeds Ca + Mg — an indicator of sodic hazard.",
+                    "interpretation": "KR > 1: unsuitable; KR < 1: suitable for irrigation."
+                }
+            ]
+        }
+    }
+}

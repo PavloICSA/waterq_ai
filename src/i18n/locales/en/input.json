@@ -1,0 +1,47 @@
+{
+    "sectionTitle": "Water Parameters",
+    "phLabel": "pH Value",
+    "phPlaceholder": "0.0",
+    "soilSectionTitle": "Soil Properties",
+    "textureTitle": "Texture Class",
+    "acidityTitle": "Acidity Level",
+    "bufferTitle": "Buffer Capacity",
+    "submitButton": "Analyze Water Quality",
+    "ions": {
+        "calcium": "Calcium (Ca²⁺)",
+        "magnesium": "Magnesium (Mg²⁺)",
+        "sodium": "Sodium (Na⁺)",
+        "potassium": "Potassium (K⁺)",
+        "sulfate": "Sulfate (SO₄²⁻)",
+        "chloride": "Chloride (Cl⁻)",
+        "carbonate": "Carbonate (CO₃²⁻)",
+        "bicarbonate": "Bicarbonate (HCO₃⁻)"
+    },
+    "soil": {
+        "texture": {
+            "sand": "Sandy & Sandy-Loam",
+            "loam": "Light & Middle-Loamy",
+            "clay": "Heavy-Loamy & Clay"
+        },
+        "acidity": {
+            "acidic": "Acidic",
+            "neutral": "Neutral",
+            "alkaline": "Alkaline"
+        },
+        "buffer": {
+            "low": "Low",
+            "medium": "Medium",
+            "high": "High"
+        }
+    },
+    "errors": {
+        "empty": "Value cannot be empty",
+        "invalid": "Please enter a valid number",
+        "negative": "Value cannot be negative",
+        "phRange": "pH must be between 0 and 14",
+        "phPrecision": "pH must be rounded to one decimal place",
+        "ionPrecision": "Value must be rounded to two decimal places",
+        "formHasErrors": "Please correct the errors below",
+        "pleaseCorrect": "All fields must contain valid values before analysis can proceed"
+    }
+}

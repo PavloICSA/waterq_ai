@@ -1,0 +1,53 @@
+{
+    "termsOfUse": {
+        "title": "Terms of Use",
+        "effectiveDate": "Effective Date: June 3, 2025",
+        "intro": "By using WaterQ AI, you agree to the following Terms of Use. Please read them carefully. These terms govern your access to and use of the WaterQ AI application.",
+        "sections": {
+            "use": {
+                "title": "1. Use of the Application",
+                "p1": "WaterQ AI is provided solely for the purpose of evaluating irrigation water quality based on laboratory test results. You agree to use the app only for lawful purposes and in accordance with these Terms.",
+                "p2": "You are solely responsible for:",
+                "list": [
+                    "The accuracy and completeness of the data you input.",
+                    "Interpreting and applying the app's output to your specific use case."
+                ],
+                "p3": "WaterQ AI is intended for informational and educational purposes only and should not be used as a substitute for professional agronomic or environmental advice."
+            },
+            "ownership": {
+                "title": "2. Ownership and Intellectual Property",
+                "p1": "All content, algorithms, visual elements, and code within WaterQ AI are the intellectual property of the app developer and are protected by applicable copyright, trademark, and other intellectual property laws.",
+                "p2": "You may not:",
+                "list": [
+                    "Copy, modify, or distribute any part of the application without prior written consent.",
+                    "Use the application to build a similar or competing product."
+                ]
+            },
+            "disclaimer": {
+                "title": "3. Disclaimer of Warranties",
+                "p1": "WaterQ AI is provided \"as is\" and \"as available\" without any warranties, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement.",
+                "p2": "We do not guarantee that:",
+                "list": [
+                    "The app will always function without interruption or errors.",
+                    "The evaluation results will be scientifically valid or sufficient for decision-making in all cases."
+                ]
+            },
+            "liability": {
+                "title": "4. Limitation of Liability",
+                "p1": "To the maximum extent permitted by law, WaterQ AI and its developer shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with your use – or inability to use – the application."
+            },
+            "userData": {
+                "title": "5. User Data",
+                "p1": "WaterQ AI does not collect or store any personal or sample data. Any information processed through the app remains within your browser unless you explicitly choose to save or share it."
+            },
+            "thirdParty": {
+                "title": "6. Third-Party Services",
+                "p1": "The app may include links or integration with third-party services (e.g., donation platforms). We are not responsible for the content, privacy policies, or practices of any third-party sites or services."
+            },
+            "changes": {
+                "title": "7. Changes to Terms",
+                "p1": "We reserve the right to modify these Terms of Use at any time. Updates will be posted on this page with a new effective date. Your continued use of WaterQ AI after such changes constitutes your acceptance of the revised terms."
+            }
+        }
+    }
+}

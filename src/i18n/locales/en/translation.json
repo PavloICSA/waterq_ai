@@ -1,0 +1,11 @@
+{
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "toggleLang": "UA"
+    },
+    "main": {
+        "title": "Welcome to the Water Quality App"
+    }
+}

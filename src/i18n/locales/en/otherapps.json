@@ -1,0 +1,22 @@
+{
+    "otherAppsSection": {
+        "title": "Other Applications",
+        "subtitle": "Explore our suite of agricultural and environmental management tools",
+        "apps": [
+            {
+                "title": "Ukraine Crop Production Map",
+                "description": "Designed for agricultural researchers and remote sensing specialists, this interactive web application offers a compelling visual and analytical platform. It seamlessly merges major crop yield data from Ukraine with diverse remote sensing products. Users can explore various vegetation indices (e.g., NDVI, EVI, NDMI) and utilize integrated statistical functionalities like correlation matrices, regression analysis, trend analysis, and forecasting. This empowers academicians to perform rigorous, data-driven investigations into the complex dynamics between crop performance and observed remote sensing signatures.",
+                "linkText": "Visit →"
+            },
+            {
+                "title": "Ukraine Soil and Climate Database",
+                "description": "This dedicated web application presents a comprehensive and integrated database of Ukraine's soil and climate characteristics. Developed to support scientific endeavors in agriculture, climatology, ecology, and soil science, the database systematically compiles information derived from traditional land surveys, extensive hydrometeorological observations, and cutting-edge remote sensing data.",
+                "linkText": "Visit →"
+            }
+        ],
+        "stayUpdated": {
+            "title": "Stay Updated",
+            "description": "Follow our updates or contact us to learn more about these applications' features. Your feedback and suggestions are welcome as we continue to expand our suite of agricultural management tools."
+        }
+    }
+}

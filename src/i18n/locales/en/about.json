@@ -1,0 +1,76 @@
+{
+    "about": {
+        "title": "About WaterQ AI",
+        "subtitle": "Understanding water quality parameters for better agricultural practices",
+        "missionTitle": "Mission",
+        "mission1": "WaterQ AI is dedicated to providing accurate water quality analysis for agricultural irrigation purposes. The main goal is to help farmers, researchers, and water management professionals make informed decisions about water usage and treatment.",
+        "mission2": "By analyzing key water parameters and presenting comprehensive quality indicators, we aim to contribute to sustainable agriculture and optimal crop growth while preserving soil health and productivity.",
+        "scienceTitle": "The Science Behind the App",
+        "scienceIntro": "The application uses established scientific methodologies to calculate various water quality indices relevant to agricultural irrigation. These include:",
+        "scienceConclusion": "These calculations help predict how water quality may affect soil structure, plant growth, and long-term agricultural sustainability.",
+        "indicators": [
+            {
+                "title": "Total Dissolved Salts (TDS)",
+                "description": "Measures the concentration of dissolved inorganic salts and organic matter present in water."
+            },
+            {
+                "title": "Sodium Adsorption Ratio (SAR)",
+                "description": "Evaluates the sodicity hazard of irrigation water by comparing sodium (Na⁺) ions concentration to the concentration of calcium (Ca²⁺) and magnesium (Mg²⁺) ions."
+            },
+            {
+                "title": "Residual Sodium Carbonate (RSC)",
+                "description": "Assesses the alkalinity hazard of irrigation water."
+            },
+            {
+                "title": "Permeability Index (PI)",
+                "description": "Indicates the potential impact of irrigation water on soil permeability."
+            },
+            {
+                "title": "Kelly's Ratio (KR)",
+                "description": "Assesses the sodium hazard of irrigation water by comparing the concentration of sodium ions (Na⁺) to the combined concentrations of calcium (Ca²⁺) and magnesium (Mg²⁺) ions."
+            },
+            {
+                "title": "Magnesium Ratio (MR)",
+                "description": "Evaluates the proportion of magnesium ions (Mg²⁺) relative to the sum of calcium (Ca²⁺) and magnesium (Mg²⁺) ions in water."
+            },
+            {
+                "title": "Toxic Ions in Chloride Equivalents (eCl)",
+                "description": "Represent the cumulative concentration of toxic ions, such as chloride (Cl⁻), bicarbonate (HCO₃⁻), carbonate (CO₃²⁻) and sulfate (SO₄²⁻), expressed in terms of chloride equivalents."
+            },
+            {
+                "title": "Stebler's Ratio (K)",
+                "description": "Evaluates the alkalinity of irrigation water based on the concentrations of carbonate (CO₃²⁻) and bicarbonate (HCO₃⁻) ions."
+            },
+            {
+                "title": "Coefficient of Ion Exchange (CIE)",
+                "description": "Quantifies the capacity of water to ion exchange."
+            },
+            {
+                "title": "Corrosion Ratio (CR)",
+                "description": "Assesses the corrosive potential of water on metal infrastructure, such as irrigation pipes and equipment."
+            },
+            {
+                "title": "Aydarov-Golovatov Coefficient (AGC)",
+                "description": "Assesses the suitability of water for irrigation, considering factors like salinity and sodicity."
+            },
+            {
+                "title": "Thermodynamic Indicators (TI)",
+                "description": "Refer to parameters that describe the equilibrium and kinetic behaviors of chemical particles in water."
+            }
+        ],
+        "developerTitle": "Developer Information",
+        "developerInfo": "WaterQ AI was developed by Dr. Pavlo LYKHOVYD, Leading Researcher from the Institute of Climate-Smart Agriculture of NAAS (UKRAINE).",
+        "developerLinksIntro": "You can have a look through the developer's scientific profiles via the links below:",
+        "links": {
+            "wos": "Web of Science",
+            "scopus": "Scopus",
+            "scholar": "Google Scholar",
+            "researchgate": "ResearchGate",
+            "view": "View Profile"
+        },
+        "developerNote": "The application is continuously updated based on the latest research and your feedback on UX/UI. Also, your donations help me to maintain the application.",
+        "joinTitle": "Join Our Mission",
+        "joinText1": "We invite researchers, farmers, and water management professionals to contribute to the project by sharing data, suggesting improvements, or supporting this work.",
+        "joinText2": "Together, we can work toward more sustainable water usage in agriculture and help address global challenges related to water quality and food security."
+    }
+}

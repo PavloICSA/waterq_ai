@@ -1,0 +1,65 @@
+{
+    "privacyPolicy": {
+        "title": "Privacy Policy",
+        "effectiveDate": "Effective Date: June 3, 2025",
+        "intro": "WaterQ AI is committed to protecting your privacy. This Privacy Policy outlines how the application collects, uses, stores, and protects your personal information and water sample data when used to assess irrigation water quality.",
+        "sections": [
+            {
+                "title": "1. Data Collection",
+                "paragraphs": [
+                    "WaterQ AI performs all computations on the client side. As a result, no personal information or water sample data is collected or stored by the application.",
+                    "However, limited usage data - such as interaction logs, user preferences, and device information - may be collected to help improve performance and user experience."
+                ]
+            },
+            {
+                "title": "2. How We Use Usage Data",
+                "paragraphs": [
+                    "Collected usage data is used to:"
+                ],
+                "list": [
+                    "Ensure security and prevent misuse.",
+                    "Maintain system integrity.",
+                    "Enhance the user interface and overall experience of WaterQ AI."
+                ]
+            },
+            {
+                "title": "3. Data Storage and Security",
+                "paragraphs": [
+                    "Usage data is securely stored using Firebase Cloud, which employs industry-standard encryption and strict access control measures. We take appropriate precautions to protect all stored data against unauthorized access, modification, or disclosure."
+                ]
+            },
+            {
+                "title": "4. Data Sharing",
+                "paragraphs": [
+                    "WaterQ AI does not sell or share your personal or sample data with any third parties."
+                ]
+            },
+            {
+                "title": "5. Cookies and Tracking",
+                "paragraphs": [
+                    "The application may use cookies or similar technologies to:"
+                ],
+                "list": [
+                    "Enhance your experience.",
+                    "Monitor app performance and usage.",
+                    "Improve functionality."
+                ],
+                "paragraphsAfterList": [
+                    "You may manage your cookie preferences through your browser settings."
+                ]
+            },
+            {
+                "title": "6. Third-Party Services",
+                "paragraphs": [
+                    "WaterQ AI integrates certain third-party services (e.g., for donations). Please note that these services are governed by their own privacy policies, and we encourage you to review them separately."
+                ]
+            },
+            {
+                "title": "7. Updates to This Policy",
+                "paragraphs": [
+                    "This Privacy Policy may be updated periodically. Any changes will be published on this page with an updated effective date. By continuing to use WaterQ AI after such updates, you acknowledge and accept the revised policy."
+                ]
+            }
+        ]
+    }
+}

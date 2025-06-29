@@ -1,0 +1,29 @@
+{
+    "title": "WaterQ AI",
+    "navItems": [
+        {
+            "id": "main",
+            "label": "Аналіз"
+        },
+        {
+            "id": "about",
+            "label": "Про нас"
+        },
+        {
+            "id": "guidelines",
+            "label": "Інструкції"
+        },
+        {
+            "id": "references",
+            "label": "Джерела"
+        },
+        {
+            "id": "donation",
+            "label": "Підтримайте нас"
+        },
+        {
+            "id": "other-apps",
+            "label": "Інші додатки"
+        }
+    ]
+}

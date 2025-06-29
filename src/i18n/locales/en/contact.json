@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "title": "Contact Us",
+        "intro": "We welcome your questions, feedback, and inquiries about WaterQ AI. Whether you're experiencing issues, have suggestions for improvement, or need more information about how the app works, feel free to reach out.",
+        "emailSupport": {
+            "title": "Email Support",
+            "description": "For all support, technical assistance, or general inquiries, please contact us at:",
+            "email": "pavel.likhovid@icsanaas.com.ua"
+        },
+        "feedback": {
+            "title": "Feedback & Suggestions",
+            "description": "We value user feedback! If you have ideas to improve WaterQ AI or would like to report a bug, please let us know via email."
+        },
+        "legal": {
+            "title": "Legal & Policy Questions",
+            "description": "For matters related to privacy, data use, or our terms of service, please refer to our Privacy Policy and Terms of Use. If you still have questions, email us directly.",
+            "links": {
+                "privacy": "Privacy Policy",
+                "terms": "Terms of Use"
+            }
+        }
+    }
+}

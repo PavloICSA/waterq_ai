@@ -1,0 +1,54 @@
+{
+    "guidelinesSection": {
+        "title": "User Guidelines",
+        "subtitle": "How to use WaterQ AI for accurate water quality analysis",
+        "sections": {
+            "gettingStarted": {
+                "title": "Getting Started",
+                "steps": [
+                    "Collect Water Samples - Obtain water samples from your irrigation source following proper collection procedures to ensure accuracy.",
+                    "Laboratory Analysis - Have the samples analyzed by a certified laboratory to determine the concentration of calcium (Ca²⁺), magnesium (Mg²⁺), sodium (Na⁺), potassium (K⁺), sulfate (SO₄²⁻), chloride (Cl⁻), carbonate (CO₃²⁻), bicarbonate (HCO₃⁻) ions in meq/L, and pH value.",
+                    "Soil Assessment - Determine your soil's texture class (granulometry), acidity level, and buffer capacity through soil testing or professional assessment.",
+                    "Enter Data - Input all the laboratory results and soil properties into the corresponding fields in the WaterQ AI analysis form. Important! Round all the ion concentrations to two decimal places, and pH to one decimal place.",
+                    "Calculate Results - Click the \"Calculate Water Quality\" button to generate comprehensive analysis results.",
+                    "Review and Export - Review the results on-screen and download them as a PDF for your records or to share with consultants. If you see Error statements in front of the water quality indicators, it means that the inputs require revision. Make sure that the sum of cations is equal to the sum of anions. This is necessary to ensure proper salts binding and reasonable calculation of the water quality indicators."
+                ]
+            },
+            "inputGuidelines": {
+                "title": "Input Guidelines",
+                "points": [
+                    "Units - All ion concentrations must be entered in milligram-equivalents per liter (meq/L). If your laboratory results are in different units (such as mg/L or ppm), you'll need to convert them before entry. Here is a converter for mg in meq (http://www.nafwa.org/convert1.php), and here is a converter to get mg from ppm (https://www.inchcalculator.com/ppm-to-mgl-converter/). Remember to round ion concentrations to two decimal places, and pH to one decimal place.",
+                    "Soil Properties - Select the appropriate options for your soil's texture, acidity level, and buffer capacity based on soil test results.",
+                    "Data Validation - The application performs basic validation to ensure all inputs are valid numbers and within acceptable ranges. Correct any errors indicated before proceeding with the calculation. If Error message occurred in Results section, please, consider revision of laboratory analysis."
+                ]
+            },
+            "understandingResults": {
+                "title": "Understanding Results",
+                "intro": "The analysis results include 16 different water quality indicators, each with its own classification and description:",
+                "points": [
+                    {
+                        "title": "Quality Classes",
+                        "details": [
+                            "Excellent: Safe for all purposes",
+                            "Good: Suitable for most uses",
+                            "Fair: Limited suitability. Careful agromeliorative monitoring is required.",
+                            "Poor: Restricted use recommended. Unsafe if no water amelioration and land reclamation measures are taken.",
+                            "Unsuitable: Not recommended for use."
+                        ]
+                    },
+                    "Interpretation - Review each indicator's value and classification to understand different aspects of your water quality. Consider all indicators and remarks on suitability together for a comprehensive assessment.",
+                    "Recommendations - Based on the classifications, consider appropriate water management strategies such as dilution, treatment, or crop selection to mitigate potential issues. Pay special attention to possible land reclamation techniques, e.g., tillage, chemical or phytoremediation, using soil amendments, to ensure soil health if irrigation water quality is doubtful."
+                ]
+            },
+            "importantNotes": {
+                "title": "Important Notes",
+                "points": [
+                    "Regular Testing - Water quality can change over time. We recommend regular testing, especially if you observe changes in crop performance or soil health.",
+                    "Professional Consultation - While WaterQ AI provides valuable analysis and insights, it's best used in conjunction with advice from agricultural extension services or irrigation water quality experts.",
+                    "Data Privacy - All data entered is processed locally in your browser and is not stored on our servers, ensuring your data remains private.",
+                    "Scientific Basis - Our calculations are based on established scientific methodologies, but interpretations may vary based on specific crop needs and local conditions. The core methodologies are FAO-endorsed and stipulated by Ukrainian national standard DSTU 2730:2015."
+                ]
+            }
+        }
+    }
+}

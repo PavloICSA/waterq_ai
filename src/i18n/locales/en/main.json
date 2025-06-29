@@ -1,0 +1,11 @@
+{
+    "mainSection": {
+        "title": "Irrigation Water Quality Analysis",
+        "description1": "Enter the water parameters below to analyze water quality for irrigation purposes. The system will calculate multiple indicators to help assess water suitability.",
+        "instructionText": "Enter the laboratory analysis results for your water sample",
+        "description2": "Make sure you have carefully read the guidelines and understand the workflow!",
+        "button": {
+            "clearResults": "Clear Results"
+        }
+    }
+}
